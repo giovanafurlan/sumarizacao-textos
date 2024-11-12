@@ -1,4 +1,4 @@
-Flask
-transformers
-python-docx
-torch==2.0.0
+Flask==3.0.3
+transformers==4.46.2
+python-docx==1.1.2
+torch==2.0.0+cpu -f https://download.pytorch.org/whl/torch_stable.html
